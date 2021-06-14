@@ -8,3 +8,5 @@
 5. `git remote add ` for adding the remote repository
 6. `git pull ` for pulling the changes made in remote repository in README.md to local repository.
 7. `git checkout` for changing the current branch to feature/header
+8. `git merge` for merging feature/header branch into the master branch
+9. `git log` to check the history of commits
